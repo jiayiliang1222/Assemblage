@@ -3,9 +3,9 @@
 - link to html file download: https://drive.google.com/drive/folders/1xxymcOID4b6gssvpgJbsaoQeieacmupW?usp=sharing
 - link to Colab: https://colab.research.google.com/drive/1w4nr_zpSuWXzjzlW3GNfN_cNG1O4Avnv?usp=sharing
 - Credit:
-- 'https://labyrinthos.co/blogs/tarot-card-meanings-list'
-- 'https://www.shortpoems.org/poems/fate/'
-- 'https://www.tarot.com/tarot/cards/major-arcana'
+- https://labyrinthos.co/blogs/tarot-card-meanings-list
+- https://www.shortpoems.org/poems/fate/
+- https://www.tarot.com/tarot/cards/major-arcana
 
 ![b7a47ac4e92b45e823cfdee0f5972fa](https://user-images.githubusercontent.com/58541110/152698942-65359db0-6d20-4a89-89d7-f916a6d877ee.png)
 
