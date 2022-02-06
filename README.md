@@ -1,7 +1,7 @@
 # Tarot Poem
 
 - link to html file download: https://drive.google.com/drive/folders/1xxymcOID4b6gssvpgJbsaoQeieacmupW?usp=sharing
-- Above there is a video file which shows how the webpage looks like.
+- Above there is a video file which shows how the webpage looks like named Webpage Video.
 - link to Colab: https://colab.research.google.com/drive/1w4nr_zpSuWXzjzlW3GNfN_cNG1O4Avnv?usp=sharing
 - Credit:
 - https://labyrinthos.co/blogs/tarot-card-meanings-list
